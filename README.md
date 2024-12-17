@@ -18,4 +18,5 @@ Blog Platformu, kullanıcıların blog yazıları oluşturmasına, güncellemesi
 ## Gereksinimler
 - MySQL 
 
+java app
 
